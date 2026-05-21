@@ -1,0 +1,6 @@
+{
+  "name": "Monitoring",
+  "description": "Aplikasi monitoring kelembaban, suhu udara, dan penyiram otomatis dengan ESP32.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
